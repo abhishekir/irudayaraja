@@ -4,6 +4,31 @@ cell: (603)-204-3131
 email address: ganguri.s@husky.neu.edu
 social media acct (optional): Facebook Messenger (used for most communication)
 
+
+
+date/time: 1/29/20 5:00PM
+place: WVH Lab
+goal: Continue working on implementation for Array
+notes: Due to time constraints 
+duration: 4 hours
+NEXT: (date/time/place of next meeting) 1/30/20 2:00PM  WVH Lab
+
+
+
+date/time: 1/28/29 5:00PM
+place: WVH Lab
+goal: Discuss problems with API source for Array. Make progress on data structure implementations.
+notes: First we addressed an issue raised by a team using our Array API about creating a generic Array superclass to support the various datatypes that Array is required to store. After this, we focused on our own implementation of array, especially how to increase the performance of methods like add, add(index), and add_all.
+duration: 3 hours
+NEXT: (date/time/place of next meeting) 1/29/20 5:00PM  WVH Lab
+
+date/time: 1/27/20 1:40PM
+place: WVH Lab
+goal: Inspect our assigned API repos and create any necessary issues blocking our implementation. Begin coding implementations.
+notes: Productive meeting. Provided a better perspective on the scope of the project - not as straight forward as we initally thought. Resulted in adjusting the amount of time we needed to complete the assignment.
+duration: 1.5 hours
+NEXT : (date/time/place of next meeting) 1/28/20  4:40PM  WVH Lab
+
 date/time: 1/26/20 3:00PM
 place: Google Hangouts
 goal: learn/align on the requirements for the assignment and create a high level plan for work distribution.
