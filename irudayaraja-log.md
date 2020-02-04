@@ -1,19 +1,38 @@
 PARTNER INFORMATION
-name: Siddharth Ganguri
+name: Siddarth Ganguri
 cell: (603)-204-3131
 email address: ganguri.s@husky.neu.edu
 social media acct (optional): Facebook Messenger (used for most communication)
 
+assignment/project title: Assignment 3
+time estimate: 15 hours
 
+------------------------------------------------------------------------------------------------------
+
+assignment/project title: Assignment 2
+actual time needed: 18 hours
+outstanding issues: Due to time constraints, we were not able to maximize the performance of our data structures, especially queue and array methods. Ideally, we could have implemented dynamic resizing to happen only occasionally for array and created a more efficient pop() method for queue. Additionally, we had to submit with a dockerfile that didn't fully work as described in 1/31 meeting notes.
+
+date/time: 1/31/20 12:00PM
+place: WVH Lab
+goal: Get to 100% tests passing, configure project for submission, submit the assignment.
+notes: Worked on debugging Array functions by pair programming. Discovered issues in the testing methodology in test_array.cpp, so we created our own tests and verified that our code worked as expected. We encountered an issue with the dockerfile upon final submission because our Map API repository had its files nested inside another folder and didn't follow the dockerfile's expected directory structure. We submitted the assignment and posted a private note to instructors regarding this docker issue on piazza.
+duration: 5 hours
+NEXT: (date/time/place of next meeting) 2/2/20 12:00PM WVH Lab
+
+date/time: 1/30/20 2:00PM
+place: WVH Lab
+goal: Continue improving test pass %. Finish implementing a few methods
+notes: Completed the remove() function for the Map structure. Got to all tests passing for queue and map structures. Completed all fucntions in Array other than add_all() and continued issues passing all the tests.
+duration: 3 hours
+NEXT: (date/time/place of next meeting) 1/31/20 12:00PM WVH Lab
 
 date/time: 1/29/20 5:00PM
 place: WVH Lab
 goal: Continue working on implementation for Array
-notes: Due to time constraints 
+notes: Due to time constraints with other commitments we had to catch up on implementation work today. We had a good idea of what we would do from a conceptual standpoint but needed to spend time debugging and testing.
 duration: 4 hours
 NEXT: (date/time/place of next meeting) 1/30/20 2:00PM  WVH Lab
-
-
 
 date/time: 1/28/29 5:00PM
 place: WVH Lab
