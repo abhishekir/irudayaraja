@@ -4,8 +4,38 @@ cell: (603)-204-3131
 email address: ganguri.s@husky.neu.edu
 social media acct (optional): Facebook Messenger (used for most communication)
 
+assignment/project title: Assignment 4
+time estimate: 20 hours
+
+------------------------------------------------------------------------------------------------------
+
 assignment/project title: Assignment 3
-time estimate: 15 hours
+actual time needed: 12 hours
+outstanding issues: Our testing battery could have been more thorough in terms of testing cpu time across different commands and testing memory across different file sizes. We did not pursue this due to time and computer constraints. However, the analysis we were able to achieve serves as a strong baseline.
+
+date/time: 2/7/20 12:00PM
+place: WVH Lab
+goal: Complete the write-up MEMO.pdf and submit the project
+notes: Sid was extremely efficient in creating the writeup and was able to effectively articulate our analysis and findings in the MEMO file. I created all the charts and tables based on the performance data collected in previous meetings. We put his writing and my charts together and were able to complete the assignment with time to spare.
+duration: 1.5 hours
+NEXT: (date/time/place of next meeting) 2/8/20 12:00PM WVH Lab
+
+date/time: 2/6/20 5:00PM
+place: WVA North
+goal: Run benchmarking battery on all chosen repos and collect all necessary performance data
+notes: Thanks to the work completed in the previous meeting, especially testing all the repos to check if they ran correctly, the data collection was a straight-forward task. However, it was time consuming to run all the tests on one computer. We ran test battery on my partners computer, while I logged results in a spreadsheet.
+duration: 5 hours
+NEXT: (date/time/place of next meeting) 2/7/20 12:00PM WVH Lab
+
+date/time: 2/4/20 5:00PM
+place: WVH Lab
+goal: Choose repositories to benchmark and configure the environment
+notes: We completed our goals for this meeting and began running memory benchmarks (valgrind) on some of the repositories. In addition, we decided on the scope of our testing battery and were able to switch out non-running repos that we initially chose.
+duration: 5 hours
+NEXT: (date/time/place of next meeting) 2/6/20 5:00PM WVA North
+
+assignment/project title: Assignment 3
+time estimate: 10 hours
 
 ------------------------------------------------------------------------------------------------------
 
