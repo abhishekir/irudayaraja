@@ -5,6 +5,50 @@ email address: ganguri.s@husky.neu.edu
 social media acct (optional): Facebook Messenger (used for most communication)
 
 
+assignment/project title: Assignment 6 time estimate: 23 hours
+
+------------------------------------------------------------------------------------------------------
+
+assignment/project title: Assignment 5
+actual time needed: 15 hours
+outstanding issues: We did not finish part 1 of this assignment due to carryover issues from a4. The technical debt was too much to resolve alongside the a5 deliverables. We have rescheduled our meeting schedule to dedicate more time to the class going forward in light of the increasing demands of our other courses.
+
+date/time: 2/21/20 12:00PM
+place: WVH lab
+goal: Finish writing the MEMO.pdf for part 1, 2. Submit the assignment.
+notes: We submitted our completed part 2 and the portion of part1 that we were able to complete. We planned the next set of meeting times, allocating more time to work on these assignments going forward.
+duration: 4 hours
+NEXT: (date/time/place of next meeting) 2/22/20 3:00PM WVH Lab
+
+date/time: 2/20/20 5:00PM
+place: WVH lab
+goal: Finish the assignment
+notes: We are realizing that our a4 implementation has too many issues and we didnt dedicate enough time early on to fix them. As such we will not have time to complete part 1 of a5 as we are unable to run a rower. We should have worked on this more proactively after realizing that a5 built of the code from a4. We plan to fix this moving forward.
+duration: 4 hours
+NEXT: (date/time/place of next meeting) 2/21/20 12:00PM WVH Lab
+
+date/time: 2/19/20 5:00PM
+place: WVH lab
+goal: Fix rower segfault errors. Get clinet and server to send messages.
+notes: We completed the coding for part 2 and began writing the Part 2 MEMO.pdf. However, we continue to work through issues with our a4 implementation so we do not have a working rower.
+duration: 4 hours
+NEXT: (date/time/place of next meeting) 2/20/20 5:00PM WVH Lab
+
+date/time: 2/17/20 6:00PM
+place: WVA North
+goal: Work on the networking layer (part 2). Create the 100MB datafile for tesing rower performance
+notes: We made progress on the networking layer. However, we are still ruunning into issues with rower.h working from the previous assignment. Shorter meeting than expected due to time constraints with work for other classes.
+duration: 4 hours
+NEXT: (date/time/place of next meeting) 2/19/20 5:00PM WVH Lab
+
+date/time: 2/16/20 5:00PM
+place: WVA North
+goal: Outline deliverables for the assignment
+notes: We set up the repository for the assignment including adding necessary files from the previous assignment. Worked on fixing the code from the previous assignment which is necessary for this one.
+duration: 2 hours
+NEXT: (date/time/place of next meeting) 2/17/20 6:00PM WVH Lab
+
+assignment/project title: Assignment 5 time estimate: 15 hours
 
 ------------------------------------------------------------------------------------------------------
 
