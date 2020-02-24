@@ -4,8 +4,51 @@ cell: (603)-204-3131
 email address: ganguri.s@husky.neu.edu
 social media acct (optional): Facebook Messenger (used for most communication)
 
+
+
+------------------------------------------------------------------------------------------------------
+
 assignment/project title: Assignment 4
-time estimate: 20 hours
+actual time needed: 19 hours
+outstanding issues: Due to the structure of this assignment we made the decision to implement all the starter code before beginning our testing. However, this approach lead to us encountering numerous bugs which crunched our already limited time to work on the assignment. As such, we were unable to finish and will take these lessons forward when working on the next assignment.
+
+date/time: 2/14/20 5:00PM
+place: WVH Lab
+goal: finish testing, submit assignment
+notes: We encountered many errors (segfaults) in testing that point towards issues with our design of the interaction between the dataframe and rows/columns. As such we were unable to finish the assignment.
+duration: 3 hours
+NEXT: (date/time/place of next meeting) 2/14/20 5:00PM WVH Lab
+
+date/time: 2/13/20 10:00AM
+place: WVH Lab
+goal: Try to finish implementation, write tests
+notes: Completed implementation for all classes/functions in starter code. Due to the nature of the assignment we made the decision to complete all implementation before testing. However, we are running into segmentation faults in Row and Column classes during basic tests. Debugging will be time consuming. In the future - test as you code.
+duration: 3 hours
+NEXT: (date/time/place of next meeting) 2/14/20 5:00PM WVH Lab
+
+date/time: 2/12/20 5:00PM
+place: WVH Lab
+goal: Continue making progress on implementation of started code
+notes: Spent most of the time reworking Column because we had initially created various Array implementation for each datatype to support different Column types, but now want to pivot to using Object Array for all Columns and casting. Not much progress, just implementation refinement.
+duration: 5 hours
+NEXT: (date/time/place of next meeting) 2/13/20 5:00PM WVH Lab
+
+date/time: 2/11/20 5:00PM
+place: WVH Lab
+goal: Begin implementation of base classes for starter code.
+notes: I began implementing the base classes of the dataframe starter code including row, column variations. In conjuction, Sid was researching multithreading implementation strategies in C. Time will be tight to complete this assignment this week.
+duration: 5 hours
+NEXT: (date/time/place of next meeting) 2/12/20 5:00PM WVH Lab
+
+date/time: 2/9/20 12:00PM
+place: WVH Lab
+goal: Outline deliverables for the assignment and plan meeting times for the week
+notes: We realized that time to work on this assigment would be extremely limited this week given our workload for other classes. We decided to prioritize having good high level design for the best chance to avoid reworks and maximize completion.
+duration: 2 hours
+NEXT: (date/time/place of next meeting) 2/11/20 5:00PM WVH Lab
+
+assignment/project title: Assignment 4
+time estimate: 18 hours
 
 ------------------------------------------------------------------------------------------------------
 
